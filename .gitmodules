@@ -1,0 +1,32 @@
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/Pramotjonsungnoen/pluginHost.git
+	ignore=dirty
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/Pramotjonsungnoen/pluginInterface.git
+	ignore=dirty
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/Pramotjonsungnoen/plugin1.git
+	ignore=dirty
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/Pramotjonsungnoen/plugin2.git
+	ignore=dirty
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/Pramotjonsungnoen/plugin3.git
+	ignore=dirty
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/Pramotjonsungnoen/plugin4.git
+	ignore=dirty
+[submodule "week-14"]
+	path = week-14
+	url = https://github.com/Pramotjonsungnoen/week-14.git
+	ignore=dirty
+[submodule "63030050-week14"]
+	path = 63030050-week14
+	url = https://github.com/Pramotjonsungnoen/63030050-week14.git
+	ignore=dirty
